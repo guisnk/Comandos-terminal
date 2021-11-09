@@ -1,0 +1,10 @@
+# Comandos-terminal
+en-enable: modo de execuçao
+	dis-disable: sai do modo de execução
+		exit: sai de tudo
+			Configure Terminal: Modo de configuração global
+				Hostname: Nomear Dispositivos
+					CtrL + Z: reverte
+						copy running-config startup-config: salva as configurações opção 1
+							wr-write: salva as configurações 
+							
